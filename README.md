@@ -66,6 +66,9 @@ Table of Contents
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 
+#### Trading & Alpha Tools
+- [XHuntr](https://xhuntr.com) Telegram bot that monitors X (Twitter) community activity for Solana alpha traders. Fires alerts when tracked KOLs create/join X communities, post contract addresses inside communities before the public tweet, or when multiple accounts converge — up to 48 hours before wallet trackers. ([bot](https://t.me/XHuntrbot))
+
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
 - [SolanaJ](https://github.com/p2p-org/solanaj)
